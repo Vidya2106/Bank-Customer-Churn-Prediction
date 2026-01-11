@@ -43,18 +43,6 @@ This project analyzes bank customer data to predict which customers are at risk 
 - **Matplotlib & Seaborn** - Data visualization
 - **Scikit-Learn** - Data preprocessing
 
-## Project Structure
-```
-bank-customer-churn-prediction/
-├── data/
-│   ├── Churn_Modelling.csv          # Original dataset
-│   └── bank_churn_cleaned.csv       # Processed dataset
-├── notebooks/
-│   └── Bank_Churn_EDA_Project.ipynb # Main analysis notebook
-├── visualizations/                   # Generated charts and graphs
-├── README.md
-└── requirements.txt
-```
 
 ## Analysis Workflow
 
